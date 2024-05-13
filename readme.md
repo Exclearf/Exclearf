@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nazar</h1>
 <h3 align="center">Novice Full Stack developer specializing in C# and JS.</h3>
 
-- 🔭 I’m currently working on [Financial Tracker]([https://encape.me](https://github.com/Exclearf/finance_frontend))
+- 🔭 I’m currently working on [Financial Tracker](https://github.com/Exclearf/finance_frontend)
 
 - 🌱 I’m currently learning **NextJS**
 
