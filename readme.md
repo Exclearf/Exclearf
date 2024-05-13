@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nazar</h1>
 <h3 align="center">Novice Full Stack developer specializing in C# and JS.</h3>
 
-- 🔭 I’m currently working on [Financial Tracker](https://encape.me)
+- 🔭 I’m currently working on [Financial Tracker]([https://encape.me](https://github.com/Exclearf/finance_frontend))
 
 - 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my projects and my experiences are available at [https://encape.me](https://encape.me)
 
-- 📫 How to reach me **nboholii@gmail.com**
+- 📫 How to reach me **jobs@mail.encape.me**
 
 - ⚡ Fun fact **I've doing origami for 10+ years**
 
