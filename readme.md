@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nazar</h1>
 <h3 align="center">Novice Full Stack developer specializing in C# and TS.</h3>
 
-- 🔭 I’m currently working on [Financial Tracker](https://github.com/Exclearf/finance_frontend)
+- 🔭 I’m currently working on [Decibel Dash](https://github.com/Exclearf/decibel-dash)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **NextJS** and **Avalonia UI (WPF)**
 
 - 👨‍💻 All of my projects and my experiences are available at [https://encape.me](https://encape.me)
 
